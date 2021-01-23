@@ -1,0 +1,14 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: 'Poppins', sans-serif;
+}
+.bg-nav{
+    background-color: black;
+}
+.my-font{
+    font-family: 'Merienda', cursive;
+}
+.text-shadow{
+    text-shadow: 0 0 10px black,0 0 40px black,0 0 80px black;
+}
